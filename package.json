@@ -1,6 +1,13 @@
 {
   "name": "create-minimal-react-template",
   "version": "1.0.0",
+  "keywords": [
+    "react",
+    "template",
+    "cli"
+  ],
+  "author": "Akash Kumawat",
+  "description": "A CLI tool to generate Minimal React Templates",
   "type": "module",
   "bin": {
     "create-minimal-react-template": "./bin/cli.mjs"
