@@ -1,0 +1,11 @@
+{
+  "name": "create-react-template",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "create-react-template": "./bin/cli.mjs"
+  },
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
