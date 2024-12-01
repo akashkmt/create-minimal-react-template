@@ -1,9 +1,9 @@
 {
-  "name": "create-react-template",
+  "name": "create-minimal-react-template",
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "create-react-template": "./bin/cli.mjs"
+    "create-minimal-react-template": "./bin/cli.mjs"
   },
   "dependencies": {
     "inquirer": "^12.1.0"
