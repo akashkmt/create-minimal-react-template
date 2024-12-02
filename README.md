@@ -12,7 +12,15 @@ A simple CLI tool to quickly create a new React project from a customizable temp
 
 To install the package globally, run the following command:
 
-`npm install -g create-minimal-react-template`
+`pnpm install -g create-minimal-react-template`
+
+or
+
+`npx create-minimal-react-template`
+
+or
+
+`sudo npm -g create-minimal-react-template`
 
 ## Usage
 
